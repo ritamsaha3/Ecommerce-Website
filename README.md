@@ -1,8 +1,4 @@
-### ----> h3
-## -->h2
-# -->h1
-For Bullet points: "-"
-link: [<link text>]{<link>}
+
 
 # This is my Ecommerce Website Using html,css,js
 
